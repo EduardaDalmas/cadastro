@@ -1,0 +1,11 @@
+body{
+	background-image: url('../imgs/fundo.jpg');
+}	
+
+h1{ padding-top: 10px;
+	padding-left: 25px;
+	text-align: auto;
+	font-family: Montserrat;
+	color: #ffffff;
+	font-size: 40px;
+}
